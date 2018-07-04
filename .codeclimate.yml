@@ -1,0 +1,6 @@
+plugins:
+  tailor:
+    enabled: true
+
+exclude_patterns:
+  - "**/*.js"
